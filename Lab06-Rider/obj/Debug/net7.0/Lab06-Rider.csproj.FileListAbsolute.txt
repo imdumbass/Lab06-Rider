@@ -1,0 +1,15 @@
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.csproj.AssemblyReference.cache
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.AssemblyInfoInputs.cache
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.AssemblyInfo.cs
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.csproj.CoreCompileInputs.cache
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/bin/Debug/net7.0/Lab06-Rider
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/bin/Debug/net7.0/Lab06-Rider.deps.json
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/bin/Debug/net7.0/Lab06-Rider.runtimeconfig.json
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/bin/Debug/net7.0/Lab06-Rider.dll
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/bin/Debug/net7.0/Lab06-Rider.pdb
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.dll
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/refint/Lab06-Rider.dll
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.pdb
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/Lab06-Rider.genruntimeconfig.cache
+/Users/macintosh/RiderProjects/Lab06-Rider/Lab06-Rider/obj/Debug/net7.0/ref/Lab06-Rider.dll
